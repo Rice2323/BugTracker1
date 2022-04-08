@@ -1,0 +1,25 @@
+html{
+  margin-left: 20vw;
+  --prim-color:#456680;
+  color: white
+}
+
+button{
+  background: #ef6c5f;
+  border-radius: 5px;
+  padding: 7px 20px;
+  font: normal bold 18px "Open Sans", sans-serif;
+  text-align: center;
+  margin-bottom: 10px;
+}
+button:hover{
+  transition: all 0.3s;
+  background: #c24f45;
+}
+.page-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+
+}

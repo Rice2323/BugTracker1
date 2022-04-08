@@ -1,0 +1,15 @@
+.bug-card{
+   background-color: gray; 
+   box-shadow: 2px 2px 2px rgb(153, 122, 122);
+    text-align: center;
+    margin: 10px;
+    min-width: 275px;
+    min-height: 200px;
+
+}
+
+.bug-card:hover{
+    transition: all 3ms;
+    transform: scale(1.05);
+    background: darkgrey;
+}
