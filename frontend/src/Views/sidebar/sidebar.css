@@ -1,6 +1,15 @@
+html,
+body {
+  margin: 0;
+}
+
 #page-wrap {
     text-align: center;
     overflow: auto;
+  }
+  
+  #App{
+    height: 100vh;
   }
   
   .bm-item {
